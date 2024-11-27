@@ -3,7 +3,6 @@
 Welcome to my data science practices repository! This repository explores various data science practices based on Data Visualization & Analytics like Exploratory Data Analysis, statistical analysis, machine learning, and data visualization with Power BI. 
 
 ## Overview
-
 This repository contains Jupyter Notebook files covering a range of data science practices. Here's a brief overview of what you can find:
 
 1. Exploratory Data Analysis on a given dataset using Python.
