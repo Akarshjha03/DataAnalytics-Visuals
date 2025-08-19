@@ -2,6 +2,14 @@
 
 Welcome to my data science practices repository! This repository explores various data science practices based on Data Visualization & Analytics like Exploratory Data Analysis, statistical analysis, machine learning, and data visualization with Power BI. 
 
+## Steps to Open Jupyter Notebook in Windows 11
+
+- Create a new folder.
+- In the folder's path type cmd.
+- A command prompt will open on that location.
+- Use command: python -m notebook.
+- Jupyter Notebook will be opened.
+
 ## Overview
 This repository contains Jupyter Notebook files covering a range of data science practices. Here's a brief overview of what you can find:
 
